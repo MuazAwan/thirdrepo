@@ -1,1 +1,3 @@
 munafqat
+
+git remote -v
