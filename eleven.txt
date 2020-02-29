@@ -1,3 +1,5 @@
 munafqat
 
 git remote -v
+
+git show origin
