@@ -1,3 +1,5 @@
-munafqat hypocracy
 
 git remote -v
+=======
+munafqat
+>>>>>>> parent of 894097e... changed
