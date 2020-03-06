@@ -1,5 +1,3 @@
 munafqat hypocracy
 
 git remote -v
-
-git show origin
